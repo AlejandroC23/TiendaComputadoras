@@ -9,11 +9,11 @@ package modelo;
  * @author Alejandro
  */
 public class Computador {
-    public String adclMarca;
-    public int adclMemoria;
-    public String adclProcesador;
-    public String adclSistemaOperativo;
-    public double adclPrecio;
+    private String adclMarca;
+    private int adclMemoria;
+    private String adclProcesador;
+    private String adclSistemaOperativo;
+    private double adclPrecio;
     
     //Métodos Constructores
     public Computador(){}

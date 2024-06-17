@@ -9,9 +9,9 @@ package modelo;
  * @author Alejandro
  */
 public class Tienda {
-    public String adclNombreTienda;
-    public String adclPropietario;
-    public int adclIdTrib;
+    private String adclNombreTienda;
+    private String adclPropietario;
+    private int adclIdTrib;
     
     //Métodos Constructores
     public Tienda(){}
